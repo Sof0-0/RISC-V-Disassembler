@@ -3,7 +3,7 @@
   <h2>By Sofiia Druchyna</h2>
 </div>
 
-### Introduction
+### Overview
 
 This project is a part of CMPS 6661: Advanced Computer Architecture at Tulane University. I build a disassembler that 
 takes in a binary file (or a text file) as input and displays the equivalent RISC-V assembly instructions along with the binary code.
